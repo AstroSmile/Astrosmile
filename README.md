@@ -32,8 +32,8 @@ Soy un **Especialista en Eficiencia Digital**, enfocado en eliminar los cuellos 
 
 Echa un vistazo a estos repositorios donde demuestro mis habilidades:
 
-* ⭐️ **[Nombre del Proyecto 1]:** Mi solución más reciente para la generación automatizada de tablas de planificación BIM.
-* **[Nombre del Proyecto 2]:** Herramienta CLI desarrollada en Python para la validación de archivos CAD.
+* ⭐️ **[Catastro - Consulta Masiva]:** Mi solución más reciente para la generación automatizada de informacion extraida de Catastro España de forma masiva, para estudios de Ingenieria y Arquitectura.
+* **[Plan de Calidad - Automatizado]:** conjunto de Herramientas necesarias para la automatizacion de creacion de plan de Calidad en Ingenierias.
 * [Otros proyectos de 42, si son públicos]
 
 ---
@@ -42,6 +42,6 @@ Echa un vistazo a estos repositorios donde demuestro mis habilidades:
 
 Me interesa colaborar en proyectos que busquen la **convergencia entre el desarrollo de software y la construcción**.
 
-* **LinkedIn:** [Tu Enlace a LinkedIn]
-* **Email:** [tu-email@ejemplo.com]
+* **LinkedIn:** [https://es.linkedin.com/in/ana-rodr%C3%ADguez-asesoronline]
+* **Email:** [samsaragamers@gmail.com]
 * *¿Tienes una idea para automatizar un proceso en tu empresa? Contáctame.*
