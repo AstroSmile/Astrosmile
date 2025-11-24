@@ -1,16 +1,47 @@
-## Hi there 👋
+# ⚡ La Optimista de la Ingeniería | [Lissimaka]
 
-<!--
-**AstroSmile/Astrosmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📍 [Estudiante en @42Malaga]
 
-Here are some ideas to get you started:
+> **"Si tengo que hacer una tarea más de una vez, la automatizo."**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Mi Misión: Construir Flujos de Trabajo Inteligentes
+
+No solo diseño estructuras; programo el futuro de la ingeniería.
+
+Soy un **Especialista en Eficiencia Digital**, enfocado en eliminar los cuellos de botella del diseño tradicional, transformando los modelos BIM estáticos en sistemas dinámicos y eficientes.
+
+| Enfoque | Descripción | Impacto |
+| :--- | :--- | :--- |
+| **Modelado BIM/CAD** | Creación de modelos de alta precisión y documentación técnica. | La base del proyecto. |
+| **Automatismos (Code)** | Desarrollo de scripts, *add-ins* y herramientas personalizadas. | **Aumento de rendimiento > 50%** en tareas repetitivas. |
+| **Optimización** | Enfoque en velocidad, datos limpios y reducción de errores humanos. | Proyectos más rápidos y rentables. |
+
+---
+
+### 💻 Stack de Herramientas y Lenguajes
+
+| Categoría | Herramientas Clave |
+| :--- | :--- |
+| **Diseño** | 🧱 BIM, CAD, Revit, AutoCAD. |
+| **Programación** | 🐍 **Python** (Scripts de automatización), Dynamo, C#. |
+| **Flujo de Trabajo** | GitHub Actions, Git. |
+
+### 🚀 Mis Proyectos Anclados
+
+Echa un vistazo a estos repositorios donde demuestro mis habilidades:
+
+* ⭐️ **[Nombre del Proyecto 1]:** Mi solución más reciente para la generación automatizada de tablas de planificación BIM.
+* **[Nombre del Proyecto 2]:** Herramienta CLI desarrollada en Python para la validación de archivos CAD.
+* [Otros proyectos de 42, si son públicos]
+
+---
+
+### 📫 Conecta y Colabora
+
+Me interesa colaborar en proyectos que busquen la **convergencia entre el desarrollo de software y la construcción**.
+
+* **LinkedIn:** [Tu Enlace a LinkedIn]
+* **Email:** [tu-email@ejemplo.com]
+* *¿Tienes una idea para automatizar un proceso en tu empresa? Contáctame.*
